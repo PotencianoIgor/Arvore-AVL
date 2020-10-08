@@ -1,0 +1,4 @@
+1. programa feito com visual studio na linguagem C#.
+2. clicar em Arvore do tipo microsoft visual studio solution.
+3, clicar no botão de play.
+3. abrir o arquivo txt com os dados das pessoas que está na pasta.

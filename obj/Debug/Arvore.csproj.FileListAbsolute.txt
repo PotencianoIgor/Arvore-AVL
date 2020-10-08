@@ -1,0 +1,26 @@
+c:\users\diego_000\documents\visual studio 2013\Projects\Arvore\Arvore\bin\Debug\Arvore.exe.config
+C:\Users\diego_000\Documents\Visual Studio 2013\Projects\Arvore\Arvore\obj\Debug\Arvore.csprojResolveAssemblyReference.cache
+C:\Users\diego_000\Documents\Visual Studio 2013\Projects\Arvore\Arvore\obj\Debug\Arvore.Properties.Resources.resources
+C:\Users\diego_000\Documents\Visual Studio 2013\Projects\Arvore\Arvore\obj\Debug\Arvore.csproj.GenerateResource.Cache
+C:\Users\Diego\Desktop\Arvore\bin\Debug\Arvore.exe.config
+C:\Users\Igor\Desktop\arvore binaria de busca(cuidado)\bin\Debug\Arvore.exe.config
+C:\Users\Igor\Desktop\arvore binaria de busca(cuidado)\arvore\bin\Debug\Arvore.exe.config
+C:\Users\Igor\Desktop\arvore binaria de busca(cuidado)\arvore-trabalho\bin\Debug\Arvore.exe.config
+C:\Users\fujioka\Desktop\arvore binaria de busca\arvore-trabalho\bin\Debug\Arvore.exe.config
+C:\Users\diego_000\Desktop\arvore binaria de busca\arvore-trabalho\bin\Debug\Arvore.exe.config
+C:\Users\diego_000\Desktop\arvore binaria de busca\arvore-trabalho\bin\Debug\Arvore.exe
+C:\Users\diego_000\Desktop\arvore binaria de busca\arvore-trabalho\bin\Debug\Arvore.pdb
+C:\Users\diego_000\Desktop\arvore binaria de busca\arvore-trabalho\obj\Debug\Arvore.frmPrincipal.resources
+C:\Users\diego_000\Desktop\arvore binaria de busca\arvore-trabalho\obj\Debug\Arvore.Properties.Resources.resources
+C:\Users\diego_000\Desktop\arvore binaria de busca\arvore-trabalho\obj\Debug\Arvore.csproj.GenerateResource.Cache
+C:\Users\diego_000\Desktop\arvore binaria de busca\arvore-trabalho\obj\Debug\Arvore.exe
+C:\Users\diego_000\Desktop\arvore binaria de busca\arvore-trabalho\obj\Debug\Arvore.pdb
+C:\Users\Igor\Desktop\trabalho-arvore\bin\Debug\Arvore.exe.config
+C:\Users\Igor\Desktop\trabalho-arvore\obj\Debug\Arvore.exe
+C:\Users\Igor\Desktop\trabalho-arvore\obj\Debug\Arvore.pdb
+C:\Users\Igor\Desktop\trabalho-arvore\bin\Debug\Arvore.exe
+C:\Users\Igor\Desktop\trabalho-arvore\bin\Debug\Arvore.pdb
+C:\Users\Igor\Desktop\trabalho-arvore\obj\Debug\Arvore.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\trabalho-arvore\obj\Debug\Arvore.frmPrincipal.resources
+C:\Users\Igor\Desktop\trabalho-arvore\obj\Debug\Arvore.Properties.Resources.resources
+C:\Users\Igor\Desktop\trabalho-arvore\obj\Debug\Arvore.csproj.GenerateResource.Cache
